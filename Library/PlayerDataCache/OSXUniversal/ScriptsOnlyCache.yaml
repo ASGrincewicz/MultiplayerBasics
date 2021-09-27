@@ -3,9 +3,12 @@ ScriptsOnlyBuild:
     Assembly-CSharp.dll:
     - MyNetworkManager
     - MyNetworkPlayer
+    Mirror.Components.dll:
+    - Mirror.NetworkTransform
     Mirror.dll:
     - Mirror.NetworkIdentity
     - Mirror.NetworkManagerHUD
+    - Mirror.NetworkStartPosition
     - kcp2k.KcpTransport
     Unity.InputSystem.dll:
     - UnityEngine.InputSystem.InputSettings
@@ -43,6 +46,7 @@ ScriptsOnlyBuild:
     Unity.RenderPipelines.Universal.Runtime.dll:
     - UnityEngine.Rendering.Universal.ForwardRendererData
     - UnityEngine.Rendering.Universal.PostProcessData
+    - UnityEngine.Rendering.Universal.UniversalAdditionalCameraData
     - UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset
     - UnityEngine.Rendering.Universal.XRSystemData
     Unity.TextMeshPro.dll:
@@ -91,6 +95,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 49
       Script: {instanceID: 0}
+    - Class: 65
+      Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
     - Class: 89
@@ -119,6 +125,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 2564}
     - Class: 114
       Script: {instanceID: 3326}
+    - Class: 114
+      Script: {instanceID: 3414}
     - Class: 114
       Script: {instanceID: 3494}
     - Class: 114
@@ -168,6 +176,8 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 6490}
     - Class: 114
+      Script: {instanceID: 6536}
+    - Class: 114
       Script: {instanceID: 6578}
     - Class: 114
       Script: {instanceID: 6584}
@@ -189,6 +199,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 7356}
     - Class: 114
       Script: {instanceID: 8096}
+    - Class: 114
+      Script: {instanceID: 8330}
     - Class: 114
       Script: {instanceID: 8460}
     - Class: 114
