@@ -1,8 +1,9 @@
 ﻿<Properties StartupConfiguration="{A3B1E741-15D4-4DAF-06BA-0F5FA8C2E7F2}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MyNetworkPlayer.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerMovement.cs">
     <Files>
       <File FileName="Assets/Scripts/MyNetworkManager.cs" Line="15" Column="27" />
-      <File FileName="Assets/Scripts/MyNetworkPlayer.cs" Line="56" Column="40" />
+      <File FileName="Assets/Scripts/MyNetworkPlayer.cs" Line="42" Column="1" />
+      <File FileName="Assets/Scripts/PlayerMovement.cs" Line="5" Column="38" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -13,7 +14,7 @@
                 <Node name="Runtime" expanded="True" />
               </Node>
               <Node name="Scripts" expanded="True">
-                <Node name="MyNetworkPlayer.cs" selected="True" />
+                <Node name="PlayerMovement.cs" selected="True" />
               </Node>
             </Node>
           </Node>

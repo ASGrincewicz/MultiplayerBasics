@@ -3,9 +3,13 @@ ScriptsOnlyBuild:
     Assembly-CSharp.dll:
     - MyNetworkManager
     - MyNetworkPlayer
+    - PlayerMovement
+    Mirror.Components.dll:
+    - Mirror.NetworkTransform
     Mirror.dll:
     - Mirror.NetworkIdentity
     - Mirror.NetworkManagerHUD
+    - Mirror.NetworkStartPosition
     - kcp2k.KcpTransport
     Unity.InputSystem.dll:
     - UnityEngine.InputSystem.InputSettings
@@ -43,6 +47,7 @@ ScriptsOnlyBuild:
     Unity.RenderPipelines.Universal.Runtime.dll:
     - UnityEngine.Rendering.Universal.ForwardRendererData
     - UnityEngine.Rendering.Universal.PostProcessData
+    - UnityEngine.Rendering.Universal.UniversalAdditionalCameraData
     - UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset
     - UnityEngine.Rendering.Universal.XRSystemData
     Unity.TextMeshPro.dll:
@@ -91,6 +96,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 49
       Script: {instanceID: 0}
+    - Class: 65
+      Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
     - Class: 89
@@ -119,6 +126,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 2564}
     - Class: 114
       Script: {instanceID: 3326}
+    - Class: 114
+      Script: {instanceID: 3414}
     - Class: 114
       Script: {instanceID: 3494}
     - Class: 114
@@ -168,6 +177,8 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 6490}
     - Class: 114
+      Script: {instanceID: 6536}
+    - Class: 114
       Script: {instanceID: 6578}
     - Class: 114
       Script: {instanceID: 6584}
@@ -190,6 +201,8 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 8096}
     - Class: 114
+      Script: {instanceID: 8330}
+    - Class: 114
       Script: {instanceID: 8460}
     - Class: 114
       Script: {instanceID: 8734}
@@ -197,6 +210,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 27050}
     - Class: 114
       Script: {instanceID: 27350}
+    - Class: 114
+      Script: {instanceID: 31784}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -204,6 +219,8 @@ ScriptsOnlyBuild:
     - Class: 135
       Script: {instanceID: 0}
     - Class: 157
+      Script: {instanceID: 0}
+    - Class: 195
       Script: {instanceID: 0}
     - Class: 196
       Script: {instanceID: 0}
@@ -214,6 +231,8 @@ ScriptsOnlyBuild:
     - Class: 223
       Script: {instanceID: 0}
     - Class: 224
+      Script: {instanceID: 0}
+    - Class: 238
       Script: {instanceID: 0}
   scriptHashData:
   - hash:
@@ -2034,6 +2053,12 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: MyNetworkPlayer
+  - hash:
+      serializedVersion: 2
+      Hash: e39b8ec2c5080d69cf245df20148e3c7
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PlayerMovement
   platform: 2
   scenePathNames:
   - Assets/Scenes/Main.unity
