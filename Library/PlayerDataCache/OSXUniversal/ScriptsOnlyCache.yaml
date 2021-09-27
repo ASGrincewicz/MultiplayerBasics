@@ -45,6 +45,12 @@ ScriptsOnlyBuild:
     - UnityEngine.Rendering.Universal.PostProcessData
     - UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset
     - UnityEngine.Rendering.Universal.XRSystemData
+    Unity.TextMeshPro.dll:
+    - TMPro.TMP_FontAsset
+    - TMPro.TMP_Settings
+    - TMPro.TMP_SpriteAsset
+    - TMPro.TMP_StyleSheet
+    - TMPro.TextMeshProUGUI
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
     - UnityEditor.TestTools.TestRunner.TestListCacheData
@@ -83,6 +89,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 48
       Script: {instanceID: 0}
+    - Class: 49
+      Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
     - Class: 89
@@ -104,6 +112,8 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 1820}
     - Class: 114
+      Script: {instanceID: 2292}
+    - Class: 114
       Script: {instanceID: 2468}
     - Class: 114
       Script: {instanceID: 2564}
@@ -124,9 +134,13 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 4352}
     - Class: 114
+      Script: {instanceID: 4492}
+    - Class: 114
       Script: {instanceID: 4676}
     - Class: 114
       Script: {instanceID: 4756}
+    - Class: 114
+      Script: {instanceID: 4780}
     - Class: 114
       Script: {instanceID: 4888}
     - Class: 114
@@ -135,6 +149,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 5572}
     - Class: 114
       Script: {instanceID: 5586}
+    - Class: 114
+      Script: {instanceID: 5644}
     - Class: 114
       Script: {instanceID: 5652}
     - Class: 114
@@ -149,6 +165,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 6318}
     - Class: 114
       Script: {instanceID: 6480}
+    - Class: 114
+      Script: {instanceID: 6490}
     - Class: 114
       Script: {instanceID: 6578}
     - Class: 114
@@ -2012,7 +2030,7 @@ ScriptsOnlyBuild:
     className: MyNetworkManager
   - hash:
       serializedVersion: 2
-      Hash: 45391fdfd5bfde7480bfd616f8715b6d
+      Hash: 5ef8a5a8e6dde066f15bb39c1735734a
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: MyNetworkPlayer
