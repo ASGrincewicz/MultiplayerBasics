@@ -1,8 +1,9 @@
 ScriptsOnlyBuild:
   usedScripts:
+    Assembly-CSharp.dll:
+    - MyNetworkManager
     Mirror.dll:
     - Mirror.NetworkIdentity
-    - Mirror.NetworkManager
     - Mirror.NetworkManagerHUD
     - kcp2k.KcpTransport
     Unity.InputSystem.dll:
@@ -108,8 +109,6 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 3326}
     - Class: 114
-      Script: {instanceID: 3420}
-    - Class: 114
       Script: {instanceID: 3494}
     - Class: 114
       Script: {instanceID: 3520}
@@ -175,6 +174,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 8460}
     - Class: 114
       Script: {instanceID: 8734}
+    - Class: 114
+      Script: {instanceID: 27050}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -2000,6 +2001,12 @@ ScriptsOnlyBuild:
     assemblyName: Mirror.Examples.dll
     namespaceName: Mirror.Examples.NetworkRoom
     className: NetworkRoomPlayerExt
+  - hash:
+      serializedVersion: 2
+      Hash: 0558fd8cb7e7d0d08ede1688a0940de6
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: MyNetworkManager
   platform: 2
   scenePathNames:
   - Assets/Scenes/Main.unity

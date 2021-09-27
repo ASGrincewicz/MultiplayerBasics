@@ -1,12 +1,22 @@
 ﻿<Properties StartupConfiguration="{A3B1E741-15D4-4DAF-06BA-0F5FA8C2E7F2}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MyNetworkManager.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Mirror/Runtime/NetworkManager.cs">
     <Files>
-      <File FileName="Assets/Scripts/MyNetworkManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MyNetworkManager.cs" Line="9" Column="1" />
+      <File FileName="Assets/Mirror/Runtime/NetworkManager.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Multiplayer-Basics" expanded="True" selected="True" />
+          <Node name="Multiplayer-Basics" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Mirror" expanded="True">
+                <Node name="Runtime" expanded="True">
+                  <Node name="NetworkManager.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="Scripts" expanded="True" />
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>
