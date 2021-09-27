@@ -3,6 +3,7 @@ ScriptsOnlyBuild:
     Assembly-CSharp.dll:
     - MyNetworkManager
     - MyNetworkPlayer
+    - PlayerMovement
     Mirror.Components.dll:
     - Mirror.NetworkTransform
     Mirror.dll:
@@ -209,6 +210,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 27050}
     - Class: 114
       Script: {instanceID: 27350}
+    - Class: 114
+      Script: {instanceID: 31784}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -216,6 +219,8 @@ ScriptsOnlyBuild:
     - Class: 135
       Script: {instanceID: 0}
     - Class: 157
+      Script: {instanceID: 0}
+    - Class: 195
       Script: {instanceID: 0}
     - Class: 196
       Script: {instanceID: 0}
@@ -226,6 +231,8 @@ ScriptsOnlyBuild:
     - Class: 223
       Script: {instanceID: 0}
     - Class: 224
+      Script: {instanceID: 0}
+    - Class: 238
       Script: {instanceID: 0}
   scriptHashData:
   - hash:
@@ -2046,6 +2053,12 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: MyNetworkPlayer
+  - hash:
+      serializedVersion: 2
+      Hash: e39b8ec2c5080d69cf245df20148e3c7
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PlayerMovement
   platform: 2
   scenePathNames:
   - Assets/Scenes/Main.unity
