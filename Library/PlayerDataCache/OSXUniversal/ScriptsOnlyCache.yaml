@@ -2,6 +2,7 @@ ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
     - MyNetworkManager
+    - MyNetworkPlayer
     Mirror.dll:
     - Mirror.NetworkIdentity
     - Mirror.NetworkManagerHUD
@@ -176,6 +177,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 8734}
     - Class: 114
       Script: {instanceID: 27050}
+    - Class: 114
+      Script: {instanceID: 27350}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -2007,6 +2010,12 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: MyNetworkManager
+  - hash:
+      serializedVersion: 2
+      Hash: 45391fdfd5bfde7480bfd616f8715b6d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: MyNetworkPlayer
   platform: 2
   scenePathNames:
   - Assets/Scenes/Main.unity

@@ -1,112 +1,112 @@
 # Starting compiling UnityEngine.TestRunner.dll
-/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-1e1c27fbafa42450fa3cf69f1e9b03e3
+/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-005e9f13276074118aa3c1e7aa53052a
 # Starting compiling UnityEngine.UI.dll
-/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-856346242156a430a98768e6e9f36600
+/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-313721a7897a94c26a9fe84c9ecb58ad
 # Starting IL post processing on UnityEngine.TestRunner.dll
-/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/aarongrincewicz/Library/Mobile Documents/com~apple~CloudDocs/Unity/Unity Projects/Multiplayer-Basics/Temp/UnityTempFile-13750602b92864a76b7899c1c2f84d19"
+/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/aarongrincewicz/Library/Mobile Documents/com~apple~CloudDocs/Unity/Unity Projects/Multiplayer-Basics/Temp/UnityTempFile-1cf4dc61f508845ef8d67dd5d0d5e540"
 # Starting IL post processing on UnityEngine.UI.dll
-/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/aarongrincewicz/Library/Mobile Documents/com~apple~CloudDocs/Unity/Unity Projects/Multiplayer-Basics/Temp/UnityTempFile-411840470afd24e67a705f84f6bc56cf"
+/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/aarongrincewicz/Library/Mobile Documents/com~apple~CloudDocs/Unity/Unity Projects/Multiplayer-Basics/Temp/UnityTempFile-16b2e328bd7b0451aa1e4d4fc3e70dbc"
 # Starting compiling Unity.RenderPipelines.Universal.Shaders.dll
-/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-f0481dc12cef441749ad75f3cf131d2e
+/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-c16bbc684b86b41f39a8e5255e293e78
 # Starting compiling Unity.Timeline.dll
-/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-2d9a1ae98ab834bc698286439885c92e
+/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-fdeb2a11aa46143a581761c7e11c0899
 # Starting compiling Unity.TextMeshPro.dll
-/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-f6724c946c517482fb91b05870efcc56
+/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-5bf005c3e7553441f8aaf01373df7282
 # Starting compiling Unity.ProBuilder.Csg.dll
-/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-cf15a4f74c536473993ac818906b86fa
+/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-b67a98f83cd434933b60e306fe71ede0
 # Starting compiling Unity.InputSystem.dll
-/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-914e223930f2f461bb63033af429a5f3
+/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-1b3cea10bcd934a8dbef70e882bfa168
 # Starting compiling Unity.RenderPipelines.Core.ShaderLibrary.dll
-/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-33521c352b6f841cd8d37c4e905683bd
-# Starting IL post processing on Unity.RenderPipelines.Core.ShaderLibrary.dll
-/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/aarongrincewicz/Library/Mobile Documents/com~apple~CloudDocs/Unity/Unity Projects/Multiplayer-Basics/Temp/UnityTempFile-37707c1ec71274237aaaa09a47d3d107"
-# Starting compiling Unity.ProBuilder.Poly2Tri.dll
-/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-f590404c88fd34c74aea695d16db189a
+/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-38153ddddbef84bc8bea24abbba9d2fb
 # Starting IL post processing on Unity.RenderPipelines.Universal.Shaders.dll
-/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/aarongrincewicz/Library/Mobile Documents/com~apple~CloudDocs/Unity/Unity Projects/Multiplayer-Basics/Temp/UnityTempFile-d81a19ef984c14b4abde51c9b6e2e599"
-# Starting compiling Unity.Mathematics.dll
-/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-107fac3861cfe4d7f8f563c204b99f56
-# Starting compiling Unity.ProBuilder.KdTree.dll
-/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-b6b36172589b44544ad1d3400e18b8aa
-# Starting compiling Unity.ProBuilder.Stl.dll
-/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-62308cdef19664216852be1ad9ed0584
-# Starting compiling Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll
-/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-3886d29708d46409abaad70b1a982ef2
-# Starting compiling Telepathy.dll
-/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-3af3197cf87ed4e5ba73efd748b26e5a
-# Starting compiling Unity.ProBuilder.dll
-/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-e4b46cccff9c0416da7436eb3ab73645
-# Starting compiling Unity.RenderPipelines.Core.Runtime.dll
-/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-440031c52497643c1a968e8d39cd472e
+/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/aarongrincewicz/Library/Mobile Documents/com~apple~CloudDocs/Unity/Unity Projects/Multiplayer-Basics/Temp/UnityTempFile-22f0473cca0c44b8da71bbb2c199cdac"
+# Starting compiling Unity.ProBuilder.Poly2Tri.dll
+/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-2cd0fd3b5c4ef4543b2fd455bfc426b8
 # Starting IL post processing on Unity.ProBuilder.Csg.dll
-/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/aarongrincewicz/Library/Mobile Documents/com~apple~CloudDocs/Unity/Unity Projects/Multiplayer-Basics/Temp/UnityTempFile-b191ba7fd2bb540d3a506ed73be00ae2"
-# Starting compiling where-allocations.dll
-/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-5724b9a268b4f4f67b5b7c14d98e407a
-# Starting IL post processing on Unity.ProBuilder.Poly2Tri.dll
-/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/aarongrincewicz/Library/Mobile Documents/com~apple~CloudDocs/Unity/Unity Projects/Multiplayer-Basics/Temp/UnityTempFile-51bf84f4603c649bfabb372d13b17305"
+/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/aarongrincewicz/Library/Mobile Documents/com~apple~CloudDocs/Unity/Unity Projects/Multiplayer-Basics/Temp/UnityTempFile-00c0f2dae731346cfa01c0e5e8c9fe16"
+# Starting compiling Unity.Mathematics.dll
+/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-033a651c91c2b4c6394e1afb7310f815
+# Starting compiling Unity.ProBuilder.KdTree.dll
+/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-6d41e7c6b021044b9ac16e3f207c6377
+# Starting compiling Unity.ProBuilder.Stl.dll
+/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-08e5fb22ddc7545c0a95630cb3547dc1
+# Starting compiling Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll
+/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-8ca327ea9f3cc4cd29e0c90935eafe57
 # Starting IL post processing on Unity.Timeline.dll
-/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/aarongrincewicz/Library/Mobile Documents/com~apple~CloudDocs/Unity/Unity Projects/Multiplayer-Basics/Temp/UnityTempFile-878ae07765d77441bbd36f1ff489b2eb"
-# Starting compiling Unity.RenderPipeline.Universal.ShaderLibrary.dll
-/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-2135b18c6b7e64b64a42619d5c750bd2
+/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/aarongrincewicz/Library/Mobile Documents/com~apple~CloudDocs/Unity/Unity Projects/Multiplayer-Basics/Temp/UnityTempFile-608b4afef02b54f27a114e10bb7159ab"
+# Starting compiling Telepathy.dll
+/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-4cea8d2a0149b4acdbf916eedfb4f26a
+# Starting compiling Unity.ProBuilder.dll
+/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-f8b6813e58eb0482487e39fd813c0347
+# Starting compiling where-allocations.dll
+/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-bd16019bf60b34d0fb491f1d542c6bf1
+# Starting compiling Unity.RenderPipelines.Core.Runtime.dll
+/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-900c60e9c2fa84495bedf56bdb58c5a0
 # Starting compiling Unity.ProGrids.dll
-/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-5aa36df1d0e154a56abcb403fed868bb
+/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-b9fad6f0d7b334b12a376daaba35f34e
 # Starting compiling kcp2k.dll
-/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-bdf8059d4a93f4aec83ed115a50c27bb
-# Starting compiling Unity.RenderPipelines.Universal.Runtime.dll
-/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-1973dc7fba34542a59c42e06304ccc39
-# Starting IL post processing on Unity.TextMeshPro.dll
-/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/aarongrincewicz/Library/Mobile Documents/com~apple~CloudDocs/Unity/Unity Projects/Multiplayer-Basics/Temp/UnityTempFile-7bf6a21fa70674360aefc5acdbb26c3c"
+/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-66cce89bf9faf4771b2675031262be9a
+# Starting IL post processing on Unity.RenderPipelines.Core.ShaderLibrary.dll
+/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/aarongrincewicz/Library/Mobile Documents/com~apple~CloudDocs/Unity/Unity Projects/Multiplayer-Basics/Temp/UnityTempFile-8808f75ae050c458aab25cf5b2ba70b7"
+# Starting IL post processing on Unity.ProBuilder.Poly2Tri.dll
+/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/aarongrincewicz/Library/Mobile Documents/com~apple~CloudDocs/Unity/Unity Projects/Multiplayer-Basics/Temp/UnityTempFile-54f1e9b5cab824b0b9de83d5b9c47cc2"
+# Starting compiling Unity.RenderPipeline.Universal.ShaderLibrary.dll
+/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-4397119b83a834f8daed7c961362bebe
 # Starting compiling Mirror.dll
-/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-7e9ed12bda816445185773094a8cd91a
-# Starting compiling Cinemachine.dll
-/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-c8b0637bc47094c06a7166ead981a1b4
+/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-89a9e08fcd7894deaaa52a295e4e0335
+# Starting IL post processing on Unity.TextMeshPro.dll
+/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/aarongrincewicz/Library/Mobile Documents/com~apple~CloudDocs/Unity/Unity Projects/Multiplayer-Basics/Temp/UnityTempFile-325fd69e15c5c438bbc665ba47a14e5b"
+# Starting compiling Unity.RenderPipelines.Universal.Runtime.dll
+/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-f16e8e38a294e48cc9a7515cc1ecd42e
 # Starting compiling Mirror.Authenticators.dll
-/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-a44e33f1395234aedb13500cf5fd3046
-# Starting compiling SimpleWebTransport.dll
-/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-767611c1ffe774b599657090be2472f6
-# Starting compiling Mirror.Components.dll
-/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-4edf40d91e12840828a4e5762a0abaf6
-# Starting IL post processing on Unity.ProBuilder.KdTree.dll
-/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/aarongrincewicz/Library/Mobile Documents/com~apple~CloudDocs/Unity/Unity Projects/Multiplayer-Basics/Temp/UnityTempFile-885ae206de06742bba01da3879a1dac7"
-# Starting compiling Mirror.Examples.dll
-/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-ddabaa47dc3a14823aa058fc6dc3480b
-# Starting compiling Assembly-CSharp.dll
-/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-14b488395d98047958921cf178b50fb0
-# Starting IL post processing on Unity.InputSystem.dll
-/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/aarongrincewicz/Library/Mobile Documents/com~apple~CloudDocs/Unity/Unity Projects/Multiplayer-Basics/Temp/UnityTempFile-4645c0321be5c459aa6ea85db2591102"
-# Starting IL post processing on Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll
-/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/aarongrincewicz/Library/Mobile Documents/com~apple~CloudDocs/Unity/Unity Projects/Multiplayer-Basics/Temp/UnityTempFile-413998598ce2e438ab60a0a1fb61fada"
-# Starting IL post processing on Telepathy.dll
-/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/aarongrincewicz/Library/Mobile Documents/com~apple~CloudDocs/Unity/Unity Projects/Multiplayer-Basics/Temp/UnityTempFile-85b19485b85e94f309c3b68f33819cf6"
+/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-b70cf2efa8dda4113a61267228b2f3ec
 # Starting IL post processing on Unity.ProBuilder.Stl.dll
-/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/aarongrincewicz/Library/Mobile Documents/com~apple~CloudDocs/Unity/Unity Projects/Multiplayer-Basics/Temp/UnityTempFile-3eccf0788c4174c119c3cb8346686bf9"
-# Starting IL post processing on Unity.ProBuilder.dll
-/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/aarongrincewicz/Library/Mobile Documents/com~apple~CloudDocs/Unity/Unity Projects/Multiplayer-Basics/Temp/UnityTempFile-076bff583d8b3400eb6202ed5fc1bf96"
-# Starting IL post processing on Unity.RenderPipelines.Core.Runtime.dll
-/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/aarongrincewicz/Library/Mobile Documents/com~apple~CloudDocs/Unity/Unity Projects/Multiplayer-Basics/Temp/UnityTempFile-523296e57d75e445c9c9cfca4435e351"
-# Starting IL post processing on Unity.RenderPipeline.Universal.ShaderLibrary.dll
-/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/aarongrincewicz/Library/Mobile Documents/com~apple~CloudDocs/Unity/Unity Projects/Multiplayer-Basics/Temp/UnityTempFile-3a488f4d3b3d14c4eb3b287a23198733"
+/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/aarongrincewicz/Library/Mobile Documents/com~apple~CloudDocs/Unity/Unity Projects/Multiplayer-Basics/Temp/UnityTempFile-e18b96ebe24a840518ae953911029b50"
+# Starting compiling Cinemachine.dll
+/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-9b4bf55abafc040e9aaf0684df464ec5
+# Starting compiling SimpleWebTransport.dll
+/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-c14e711b9d1f8481298218680fc4faab
+# Starting compiling Mirror.Components.dll
+/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-9d7f51575eee24cf49d2faa907407c23
+# Starting IL post processing on Unity.ProBuilder.KdTree.dll
+/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/aarongrincewicz/Library/Mobile Documents/com~apple~CloudDocs/Unity/Unity Projects/Multiplayer-Basics/Temp/UnityTempFile-fa6308767efe54e21bb71f8cd73e6d83"
+# Starting IL post processing on Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll
+/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/aarongrincewicz/Library/Mobile Documents/com~apple~CloudDocs/Unity/Unity Projects/Multiplayer-Basics/Temp/UnityTempFile-6439c7e6a5fd14fa68e45ca8bc1410fb"
+# Starting IL post processing on Unity.InputSystem.dll
+/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/aarongrincewicz/Library/Mobile Documents/com~apple~CloudDocs/Unity/Unity Projects/Multiplayer-Basics/Temp/UnityTempFile-6e888b36e3a68448bb6ca0a69f310762"
+# Starting IL post processing on Telepathy.dll
+/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/aarongrincewicz/Library/Mobile Documents/com~apple~CloudDocs/Unity/Unity Projects/Multiplayer-Basics/Temp/UnityTempFile-5934cbb01e8e349c0b93e9f38016a830"
 # Starting IL post processing on where-allocations.dll
-/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/aarongrincewicz/Library/Mobile Documents/com~apple~CloudDocs/Unity/Unity Projects/Multiplayer-Basics/Temp/UnityTempFile-5003dcb39c7e844df88a7145b824a26f"
-# Starting IL post processing on Unity.Mathematics.dll
-/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/aarongrincewicz/Library/Mobile Documents/com~apple~CloudDocs/Unity/Unity Projects/Multiplayer-Basics/Temp/UnityTempFile-d71f2274ea1a941b98adfb6d0e062703"
+/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/aarongrincewicz/Library/Mobile Documents/com~apple~CloudDocs/Unity/Unity Projects/Multiplayer-Basics/Temp/UnityTempFile-e9cd1eb05ecf54ed1b7d02f98e961dd0"
+# Starting IL post processing on Unity.ProBuilder.dll
+/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/aarongrincewicz/Library/Mobile Documents/com~apple~CloudDocs/Unity/Unity Projects/Multiplayer-Basics/Temp/UnityTempFile-44c9aa6f0ccce49d4b5b0fe57d58de4e"
+# Starting IL post processing on Unity.RenderPipelines.Core.Runtime.dll
+/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/aarongrincewicz/Library/Mobile Documents/com~apple~CloudDocs/Unity/Unity Projects/Multiplayer-Basics/Temp/UnityTempFile-d44b395421dcf4e9db107306846a5b73"
 # Starting IL post processing on Unity.ProGrids.dll
-/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/aarongrincewicz/Library/Mobile Documents/com~apple~CloudDocs/Unity/Unity Projects/Multiplayer-Basics/Temp/UnityTempFile-0b0d65e26c12d4d579337a7dc1e9d431"
+/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/aarongrincewicz/Library/Mobile Documents/com~apple~CloudDocs/Unity/Unity Projects/Multiplayer-Basics/Temp/UnityTempFile-31f26e118d90b40fb999649da37659f5"
+# Starting compiling Mirror.Examples.dll
+/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-8ee96136dc26747b3b67ef2adaba2bbf
 # Starting IL post processing on kcp2k.dll
-/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/aarongrincewicz/Library/Mobile Documents/com~apple~CloudDocs/Unity/Unity Projects/Multiplayer-Basics/Temp/UnityTempFile-40972ee8f3f1346e48a17b9238828b84"
-# Starting IL post processing on Unity.RenderPipelines.Universal.Runtime.dll
-/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/aarongrincewicz/Library/Mobile Documents/com~apple~CloudDocs/Unity/Unity Projects/Multiplayer-Basics/Temp/UnityTempFile-246fedbd9da184ecea9e9b03b1151097"
+/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/aarongrincewicz/Library/Mobile Documents/com~apple~CloudDocs/Unity/Unity Projects/Multiplayer-Basics/Temp/UnityTempFile-588a601fabf3d4d1682e9afbb9b8df2d"
+# Starting IL post processing on Unity.Mathematics.dll
+/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/aarongrincewicz/Library/Mobile Documents/com~apple~CloudDocs/Unity/Unity Projects/Multiplayer-Basics/Temp/UnityTempFile-737f4a72179eb4dc4b12163ec1eacc1a"
+# Starting compiling Assembly-CSharp.dll
+/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-3fdab715c702e43909a66ef4a3d6165f
+# Starting IL post processing on Unity.RenderPipeline.Universal.ShaderLibrary.dll
+/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/aarongrincewicz/Library/Mobile Documents/com~apple~CloudDocs/Unity/Unity Projects/Multiplayer-Basics/Temp/UnityTempFile-4708b8bc88fca4f39be403b332c69064"
 # Starting IL post processing on Mirror.dll
-/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/aarongrincewicz/Library/Mobile Documents/com~apple~CloudDocs/Unity/Unity Projects/Multiplayer-Basics/Temp/UnityTempFile-7c66ac6555c9c4441b1084b876b35aa8"
-# Starting IL post processing on Cinemachine.dll
-/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/aarongrincewicz/Library/Mobile Documents/com~apple~CloudDocs/Unity/Unity Projects/Multiplayer-Basics/Temp/UnityTempFile-c7f12610a19c24773916693e0a50ecce"
+/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/aarongrincewicz/Library/Mobile Documents/com~apple~CloudDocs/Unity/Unity Projects/Multiplayer-Basics/Temp/UnityTempFile-a324ad9e2e4574f6f99885e28e8f5ad6"
 # Starting IL post processing on Mirror.Authenticators.dll
-/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/aarongrincewicz/Library/Mobile Documents/com~apple~CloudDocs/Unity/Unity Projects/Multiplayer-Basics/Temp/UnityTempFile-a4a497e689da44846a13d4ea070011e1"
-# Starting IL post processing on SimpleWebTransport.dll
-/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/aarongrincewicz/Library/Mobile Documents/com~apple~CloudDocs/Unity/Unity Projects/Multiplayer-Basics/Temp/UnityTempFile-6891722e1d2c84544b2ce9b2b2fa0537"
+/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/aarongrincewicz/Library/Mobile Documents/com~apple~CloudDocs/Unity/Unity Projects/Multiplayer-Basics/Temp/UnityTempFile-722852b07194d48bc84ac115a2f0c3ba"
+# Starting IL post processing on Unity.RenderPipelines.Universal.Runtime.dll
+/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/aarongrincewicz/Library/Mobile Documents/com~apple~CloudDocs/Unity/Unity Projects/Multiplayer-Basics/Temp/UnityTempFile-11045ca59a57b4713bf087981120bbd2"
+# Starting IL post processing on Cinemachine.dll
+/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/aarongrincewicz/Library/Mobile Documents/com~apple~CloudDocs/Unity/Unity Projects/Multiplayer-Basics/Temp/UnityTempFile-c64e4ae699a2b4bd4a782c8b0d5da007"
 # Starting IL post processing on Mirror.Components.dll
-/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/aarongrincewicz/Library/Mobile Documents/com~apple~CloudDocs/Unity/Unity Projects/Multiplayer-Basics/Temp/UnityTempFile-da34e43a29c6a451a8c2db712be3f0cb"
+/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/aarongrincewicz/Library/Mobile Documents/com~apple~CloudDocs/Unity/Unity Projects/Multiplayer-Basics/Temp/UnityTempFile-e6be08d08db814f2fb2590105f8e737c"
+# Starting IL post processing on SimpleWebTransport.dll
+/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/aarongrincewicz/Library/Mobile Documents/com~apple~CloudDocs/Unity/Unity Projects/Multiplayer-Basics/Temp/UnityTempFile-69654b202c20f4dfba45b9ad67b72271"
 # Starting IL post processing on Mirror.Examples.dll
-/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/aarongrincewicz/Library/Mobile Documents/com~apple~CloudDocs/Unity/Unity Projects/Multiplayer-Basics/Temp/UnityTempFile-eeba0aea6051d47eeb3fc9ce2199b9b1"
+/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/aarongrincewicz/Library/Mobile Documents/com~apple~CloudDocs/Unity/Unity Projects/Multiplayer-Basics/Temp/UnityTempFile-cb73d904a785f46f4bddde00f4d3cba9"
 # Starting IL post processing on Assembly-CSharp.dll
-/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/aarongrincewicz/Library/Mobile Documents/com~apple~CloudDocs/Unity/Unity Projects/Multiplayer-Basics/Temp/UnityTempFile-4d978dfa653ad4186a9d65212298c6c1"
+/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/aarongrincewicz/Library/Mobile Documents/com~apple~CloudDocs/Unity/Unity Projects/Multiplayer-Basics/Temp/UnityTempFile-1695a33f3b21a462398be2d730ff5d87"
